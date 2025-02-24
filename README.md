@@ -19,4 +19,7 @@ A passionate Full Stack Developer and Machine Learning Enthusiast
 
 
 ## Languages and Tools:
-(https://img.shields.io/w3c-validation/:parser)
+HTML
+CSS 
+JavaScript 
+Python 
