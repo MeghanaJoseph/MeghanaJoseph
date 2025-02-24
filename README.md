@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 A passionate Full Stack Developer and Machine Learning Enthusiast
+
+
+## Languages and Tools:
+HTML https://img.shields.io/w3c-validation/:parser
